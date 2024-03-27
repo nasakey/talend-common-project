@@ -1,0 +1,29 @@
+{
+  "itemId" : "_NDAPgOw5Ee65iaaP__Du3g",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_XNefcOw5Ee65iaaP__Du3g",
+    "parameterList" : [ {
+      "id" : "_XNu-Iew5Ee65iaaP__Du3g",
+      "name" : "CTX_CONNECTION_Server"
+    }, {
+      "id" : "_XNu-Iuw5Ee65iaaP__Du3g",
+      "name" : "CTX_CONNECTION_Schema"
+    }, {
+      "id" : "_XNu-I-w5Ee65iaaP__Du3g",
+      "name" : "CTX_CONNECTION_Password"
+    }, {
+      "id" : "_XNu-JOw5Ee65iaaP__Du3g",
+      "name" : "CTX_CONNECTION_Login"
+    }, {
+      "id" : "_XNu-Jew5Ee65iaaP__Du3g",
+      "name" : "CTX_CONNECTION_Port"
+    }, {
+      "id" : "_XNu-Juw5Ee65iaaP__Du3g",
+      "name" : "CTX_CONNECTION_Database"
+    }, {
+      "id" : "_XNu-J-w5Ee65iaaP__Du3g",
+      "name" : "CTX_CONNECTION_AdditionalParams"
+    } ]
+  } ]
+}

@@ -1,0 +1,29 @@
+{
+  "itemId" : "_rHyn4OwwEe65iaaP__Du3g",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_z7zbMOwwEe65iaaP__Du3g",
+    "parameterList" : [ {
+      "id" : "_z8FvEewwEe65iaaP__Du3g",
+      "name" : "ERP_CONNECTION_Server"
+    }, {
+      "id" : "_z8FvEuwwEe65iaaP__Du3g",
+      "name" : "ERP_CONNECTION_Schema"
+    }, {
+      "id" : "_z8FvE-wwEe65iaaP__Du3g",
+      "name" : "ERP_CONNECTION_Password"
+    }, {
+      "id" : "_z8FvFOwwEe65iaaP__Du3g",
+      "name" : "ERP_CONNECTION_ServiceName"
+    }, {
+      "id" : "_z8FvFewwEe65iaaP__Du3g",
+      "name" : "ERP_CONNECTION_Login"
+    }, {
+      "id" : "_z8FvFuwwEe65iaaP__Du3g",
+      "name" : "ERP_CONNECTION_Port"
+    }, {
+      "id" : "_z8FvF-wwEe65iaaP__Du3g",
+      "name" : "ERP_CONNECTION_AdditionalParams"
+    } ]
+  } ]
+}
